@@ -20,4 +20,4 @@ Python · Go · JavaScript · React · Linux ·  Wowza · AWS Elemental · Broad
  
 ## What I'm learning
  
-Going deeper on transcoding pipelines and HLS packaging — segment and playlist structure, ABR ladders, and what actually makes a stream behave badly on a slow connection. I keep a small lab for this at **[media_pipeline](https://github.com/crimsonn/media_pipeline)**.
+Going deeper on transcoding pipelines and HLS packaging, segment and playlist structure, ABR ladders, and what actually makes a stream behave badly on a slow connection. I keep a small lab for this at **[media_pipeline](https://github.com/crimsonn/media_pipeline)**.
